@@ -1,2 +1,4 @@
 # Coursera_Capstone
-Capstone Project Notebook Prev
+This is for Capstone Project Notebook assignment
+
+
